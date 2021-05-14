@@ -1,3 +1,21 @@
+Pet-project preview: https://line-of-sight.vercel.app/
+
+## Используемый стэк
+- Next.js
+- React.js
+- Redux
+- SASS
+- emotion.sh / styled-components
+- Typescript
+
+## Функционал
+- Настройка количества слов за один цикл игры
+- Настройка количества букв в показываемых словах в течение цикла игры
+- Настройка начального расстояния
+- Настройка увеличения расстояния
+- Скорость отображения (время появления) слова на экране от 1 до 5 секунд с шагом 0,5 сек.
+- В каждом новом цикле игры случайный порядок слов
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

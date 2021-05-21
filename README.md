@@ -1,5 +1,7 @@
 Pet-project preview: https://line-of-sight.vercel.app/
-
+Макет из ТЗ: https://www.figma.com/file/IvCMZvlNYd1ApufgIseJxE/%D0%9F
+%D0%BE%D0%BB%D0%B5-%D0%B7%D1%80%D0%B5%D0%BD
+%D0%B8%D1%8F?node-id=0%3A1
 ## Используемый стэк
 - Next.js
 - React.js
